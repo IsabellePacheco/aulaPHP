@@ -1,0 +1,9 @@
+body{
+    background-color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 2rem;
+    display: flex;
+    margin: 50px;
+    text-align: center;
+}
