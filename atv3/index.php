@@ -1,5 +1,5 @@
 <?php
 
-    $nome = "Mago🧙🏻‍♂️";
+    $nome =  "Mago🧙🏻‍♂️";
     echo "Olá $nome";
 ?>
