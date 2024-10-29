@@ -1,6 +1,6 @@
 <?php
 //  definição de variavel
-    $idade =18;
+    $idade =18 ;
 
     if($idade <30 ){
 
